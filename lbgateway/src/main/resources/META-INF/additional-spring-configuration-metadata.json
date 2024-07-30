@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "cloud.gateway.locator.gateway",
+  "type": "java.lang.String",
+  "description": "A description for 'cloud.gateway.locator.gateway'"
+}]}
